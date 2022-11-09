@@ -10,7 +10,7 @@ enum Colors {
   PINK,
 }
 
-function chooseColor(cor: Colors): void {
+export function chooseColor(cor: Colors): void {
   console.log(Colors[cor]);
 }
 
