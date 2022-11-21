@@ -1,3 +1,5 @@
+// Declaration merging em interfaces
+
 interface Pessoa {
   nome: string;
 }
